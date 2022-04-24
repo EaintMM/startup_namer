@@ -1,16 +1,12 @@
 # startup_namer
 
-A new Flutter project.
+A simple flutter app for random names generator.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app randomly generates names and the user can save the favorite ones and see the favorited list.
 
-A few resources to get you started if this is your first Flutter project:
+Flutter project includes:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- english_words package
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
